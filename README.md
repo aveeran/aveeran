@@ -1,11 +1,11 @@
 ## Hey 👋, I'm Abbinash Ranjitkar!
 
 ## 🚀About Me
-📚 I'm currently a 3rd year student studying Computing Science at the University of Alberta.
-👨‍💻 I'm currently working on a browser extension for the Wikipedia Game!
-🧮 I'm interested in graph algorithms and have researched that topic in the past.
-🤝 Here is a link to my resume [resume](https://github.com/aveeran/aveeran)
-💬 Feel free to reach out to me at ranjitka@ualberta.ca or abbinashranjitkar@gmail.com. I'll try to respond as soon as possible.
+📚 I'm currently a 3rd year student studying Computing Science at the University of Alberta.  
+👨‍💻 I'm currently working on a browser extension for the Wikipedia Game!  
+🧮 I'm interested in graph algorithms and have researched that topic in the past.  
+🤝 Here is a link to my resume [resume](https://github.com/aveeran/aveeran)  
+💬 Feel free to reach out to me at ranjitka@ualberta.ca or abbinashranjitkar@gmail.com. I'll try to respond as soon as possible.  
 
 ## 🧰 Tech Stack
 
