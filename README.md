@@ -4,7 +4,6 @@
 📚 I'm a 3rd-year Computing Science student at the University of Alberta.  
 👨‍💻 Currently, I'm developing a browser extension for the Wikipedia Game!  
 🧮 I'm interested in graph algorithms and have researched that topic in the past.    
-🤝 Here is a link to my [resume](https://github.com/aveeran/aveeran/blob/main/Abbinash_s_Resume.pdf)  
 💬 Feel free to reach out to me at ranjitka@ualberta.ca or abbinashranjitkar@gmail.com. I'll try to respond as soon as possible.  
 
 ## 🗣 Languages
